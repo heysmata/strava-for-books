@@ -1,0 +1,5 @@
+{
+  "name": "Copy of BookWyrm AI",
+  "description": "An AI-powered personal reading companion to track your reading, get insights on books, and listen to AI-generated summaries with text-to-speech. It's like Strava for your bookshelf.",
+  "requestFramePermissions": []
+}
